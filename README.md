@@ -18,7 +18,7 @@ The core idea:
 
 You can read the PDF directly on GitHub:
 
-**[AI as a Forcing Function for Shared Meaning (PDF)](AI%20as%20a%20Forcing%20Function%20for%20Shared%20Meaning.pdf)**
+**[Download the PDF](https://raw.githubusercontent.com/RonItelman/decision-traces/main/AI%20as%20a%20Forcing%20Function%20for%20Shared%20Meaning.pdf)**
 
 ---
 
